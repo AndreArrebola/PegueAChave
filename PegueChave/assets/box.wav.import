@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/box.wav-5d4b4f9adaa0eb2654a900a659ae7790.sample"
+
+[deps]
+
+source_file="res://assets/box.wav"
+dest_files=[ "res://.import/box.wav-5d4b4f9adaa0eb2654a900a659ae7790.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
